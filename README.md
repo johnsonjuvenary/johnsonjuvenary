@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning livewire
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me johnsonjuvenary@gmail.com | +255769335532 
+- 📫 How to reach me johnsonjuvenary@gmail.com | https://twitter.com/johnsonjuvenary | +255769335532 
 
 <!---
 johnsonjuvenary/johnsonjuvenary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
