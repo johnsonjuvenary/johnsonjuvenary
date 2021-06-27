@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnsonjuvenary
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning livewire
+- 🌱 I’m currently learning laravel livewire
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me johnsonjuvenary@gmail.com | https://twitter.com/johnsonjuvenary | +255769335532 
 
